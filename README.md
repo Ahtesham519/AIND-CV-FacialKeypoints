@@ -1,3 +1,43 @@
+Meets Specifications
+Good job in this resubmission and overall building end-to-end facial keypoint recognition system using deep learning and computer vision!
+
+You put a lot of effort into this project!
+
+Good luck with your Nanodegree!
+
+Files Submitted
+CV_project.ipynb --> all required python functions are completed in the main notebook. CV_project.ipynb TODO items should all be completed.
+
+Step 1: Add eye detections to the face detection setup
+The submission returns proper code detecting and marking eyes in the given test image.
+
+Step 2: De-noise an image for better face detection
+The submission completes de-noising of the given noisy test image with perfect face detections then performed on the cleaned image.
+
+Awesome job in this resubmission! You detected all the 13 faces!
+
+Step 3: Blur and edge detect an image
+The submission returns an edge-detected image that has first been blurred, then edge-detected, using the specified parameters.
+
+Step 4: Automatically hide the identity of a person
+The submission should provide code to automatically detect the face of a person in a test image, then blur their face to mask their identity.
+
+Step 5: Specify the network architecture
+The submission successfully provides code to build an appropriate convolutional network.
+
+Step 6: Compile and train the model
+The submission successfully compiles and trains the CNN.
+
+Step 7: Answer a few questions and visualize the loss
+The submission successfully discusses any potential issues with their training, and answers all of the provided questions.
+
+Step 8: Complete a facial keypoints detector
+The submission successfully combines OpenCV's pre-processing techniques and face detection with a trained CNN keypoint detector.
+
+
+
+
+
 [//]: # (Image References)
 
 [image1]: ./images/obamas_with_keypoints.png "Facial Keypoint Detection"
